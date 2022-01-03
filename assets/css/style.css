@@ -433,7 +433,7 @@ section {
 .resume .resume-item {
   padding: 0 0 20px 20px;
   margin-top: -2px;
-  border-left: 2px solid #1f5297;
+  border-left: 2px solid #e00df3;
   position: relative;
 }
 .resume .resume-item h4 {
@@ -471,7 +471,7 @@ section {
   left: -9px;
   top: 0;
   background: #fff;
-  border: 2px solid #1f5297;
+  border: 2px solid #e00df3;
 }
 
 /*--------------------------------------------------------------
